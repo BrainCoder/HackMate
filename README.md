@@ -26,3 +26,7 @@ A Open Source mate based soft drink recipe.
 [Sudoroom's Sudomate](https://sudoroom.org/wiki/Sudomate)
 
 [hackpgh's open mate soda](https://hackpgh.org/2010/02/04/brewing-open-mate-soda/)
+
+[instructables Club Mate Copycat](https://www.instructables.com/Club-Mate-Copycat/)
+
+[Matedor](https://github.com/Tobystereo/Matedor)
