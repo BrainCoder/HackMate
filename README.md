@@ -1,5 +1,5 @@
 # HackMate
-A Open Source mate based soft drink recipe.
+An Open recipe mate based soft drink recipe.
 
 ## Ingredients
 
